@@ -1,0 +1,31 @@
+# ---- Secrets / local state — NEVER commit ----
+# babyfoon_config.json = email, device-id, DPAPI-encrypted password, session
+babyfoon_config.json
+avent_creds.json
+babyfoon_bridge.json
+go2rtc.yaml
+.tuya-data/
+
+# ---- Logs ----
+*.log
+
+# ---- Python / build ----
+.venv/
+__pycache__/
+*.pyc
+build/
+build_pyi/
+dist/
+*.spec
+
+# ---- Binaries: shipped via GitHub Releases, not in git ----
+# go2rtc.exe -> download from AlexxIT/go2rtc releases
+# repo/ -> upstream thekoma/aventproxy clone (build dependency)
+PeekaBaby.exe
+bin/
+repo/
+
+# ---- Editor / tooling ----
+.claude/
+.vscode/
+.idea/
