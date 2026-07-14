@@ -7,6 +7,11 @@
 
 <p align="center">🇬🇧 English · <a href="README.nl.md">🇳🇱 Nederlands</a></p>
 
+<p align="center">
+  <img src="docs/screenshots/en-03-dashboard.png" alt="PeekaBaby dashboard with two cameras live side by side" width="880">
+</p>
+<p align="center"><sub>⚠️ Every screenshot on this page uses <b>demo data</b>: a made-up account and a simulated camera image. No real footage.</sub></p>
+
 ---
 
 PeekaBaby is a cosy, single-file Windows app that connects to the Philips Avent
@@ -36,6 +41,18 @@ UI, all inside `PeekaBaby.exe`.
 - 📦 **Truly self-contained** — one `.exe`. No VLC, no Python install, no Docker,
   no Home Assistant. Uses the Microsoft Edge **WebView2** runtime that ships
   with Windows 10/11.
+
+## Screenshots
+
+| Sign in once | The 6-digit email code |
+| --- | --- |
+| <img src="docs/screenshots/en-01-signin.png" alt="Sign-in screen with a demo account" width="420"> | <img src="docs/screenshots/en-02-code.png" alt="Screen for the six-digit email code" width="420"> |
+
+**Night light, lullabies & volume — without reaching for your phone:**
+
+<p align="center">
+  <img src="docs/screenshots/en-04-controls.png" alt="Control panel with night light, lullaby, volume and privacy mode" width="860">
+</p>
 
 ## Install & run
 

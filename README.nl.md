@@ -7,6 +7,11 @@
 
 <p align="center"><a href="README.md">🇬🇧 English</a> · 🇳🇱 Nederlands</p>
 
+<p align="center">
+  <img src="docs/screenshots/nl-03-dashboard.png" alt="PeekaBaby-dashboard met twee camera's live naast elkaar" width="880">
+</p>
+<p align="center"><sub>⚠️ Alle screenshots op deze pagina gebruiken <b>demogegevens</b>: een verzonnen account en een nagebootst camerabeeld. Geen echte beelden.</sub></p>
+
 ---
 
 PeekaBaby is een knusse Windows-app-in-één-bestand die verbindt met de Philips
@@ -38,6 +43,18 @@ WebView2-interface, allemaal in `PeekaBaby.exe`.
 - 📦 **Echt zelfstandig** — één `.exe`. Geen VLC, geen Python-installatie, geen
   Docker, geen Home Assistant. Gebruikt de Microsoft Edge **WebView2**-runtime
   die op Windows 10/11 standaard aanwezig is.
+
+## Screenshots
+
+| Eén keer inloggen | De 6-cijferige e-mailcode |
+| --- | --- |
+| <img src="docs/screenshots/nl-01-signin.png" alt="Inlogscherm met een demo-account" width="420"> | <img src="docs/screenshots/nl-02-code.png" alt="Scherm voor de zescijferige e-mailcode" width="420"> |
+
+**Nachtlampje, slaapliedjes & volume — zonder je telefoon erbij te pakken:**
+
+<p align="center">
+  <img src="docs/screenshots/nl-04-controls.png" alt="Bedieningspaneel met nachtlampje, slaapliedje, volume en privacymodus" width="860">
+</p>
 
 ## Installeren & starten
 
